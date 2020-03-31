@@ -1,3 +1,2 @@
-# hello
+# Initial page
 
-this is a good question
